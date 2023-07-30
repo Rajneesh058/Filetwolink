@@ -1,4 +1,6 @@
 #Adarsh goel
+import asyncio
+import urllib.parse
 from Adarsh.bot import StreamBot
 from Adarsh.vars import Var
 import logging
@@ -12,6 +14,7 @@ from pyrogram.errors import UserNotParticipant
 from Adarsh.utils.file_properties import get_name, get_hash, get_media_file_size
 db = Database(Var.DATABASE_URL, Var.name)
 from pyrogram.types import ReplyKeyboardMarkup
+from pyrogram.enums.parse_mode import ParseMode
 
 START_TEXT = """
 <i>👋 Hᴇʏ,</i>{}\n
