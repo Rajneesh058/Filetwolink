@@ -35,9 +35,9 @@ HELP_TEXT = """
 
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : FileStreamX</b>\n
-<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/direct_link_generator'>3.0.1</a></b>\n
-<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/Moviesindna/FileStreamBot?organization=Moviesindna&organization=Moviesindna'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
-<b>🔸GitHub : <a href='https://GitHub.com/avipatilpro'>Fᴏʟʟᴏᴡ</a></b>\n
+<b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://t.me/Movie_Megaverse_Backup'>3.0.1</a></b>\n
+<b>🔹Sᴏᴜʀᴄᴇ : <a href='https://t.me/Movie_F_bot'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
+<b>🔸GitHub : <a href='https://GitHub.com/'>Fᴏʟʟᴏᴡ</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Rajneesh_Singh_Tomar'>Rajneesh_Singh_Tomar</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://t.me/direct_link_generator'>[ 26-oct-22 ] 03:55 PM</a></b>"""
                       
